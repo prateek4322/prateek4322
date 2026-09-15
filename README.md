@@ -1,106 +1,116 @@
-Hi, I'm Prateek Kumar
+<div align="center">👋 Hi, I'm Prateek Kumar
 
-Full-Stack Developer | Software Developer | Open Source Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+JavaScript+Developer;Building+Modern+Web+Applications;AI+%26+Developer+Tools+Enthusiast" alt="Typing SVG" /><br/><a href="https://github.com/prateek4322">
+<img src="https://komarev.com/ghpvc/?username=prateek4322&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</a></div>---
 
-I’m a developer who enjoys building modern, scalable, and user-friendly web applications. I like turning ideas into real-world products and continuously improving my skills through projects and hands-on development.
+🚀 About Me
+
+const prateek = {
+    name: "Prateek Kumar",
+    location: "Delhi, India",
+    role: "Full Stack Developer",
+    
+    interests: [
+        "Web Development",
+        "Software Engineering",
+        "AI & Developer Tools",
+        "Open Source"
+    ],
+
+    currentlyBuilding: "Modern Web Applications",
+    
+    mindset: "Build → Learn → Improve → Ship"
+};
+
+I’m a developer focused on building modern, responsive and practical web applications.
+
+I enjoy transforming ideas into real products, working with modern JavaScript technologies, and continuously improving my development skills.
 
 ---
 
-About Me
-
-- 💻 Passionate about Web Development & Software Engineering
-- 🚀 Building practical and user-focused web applications
-- 🧠 Continuously learning new technologies and development practices
-- 🔧 Interested in Frontend, Backend, APIs, AI/ML & Developer Tools
-- 📍 Based in Delhi, India
-- 🤝 Open to collaborating on interesting projects
-
----
-
-Tech Stack
+💻 Tech Stack
 
 Languages
 
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,html,css" />
+</p>Frontend
 
-Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>Backend & Database
 
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"Vite" (https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-"Tailwind CSS" (https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>Tools & Platforms
 
-Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>---
 
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-"Express" (https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-"REST API" (https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+🔥 Featured Project
 
-Tools
+🎬 TubeKit
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+A modern YouTube Creator Toolkit designed to help creators generate and optimize content more efficiently.
 
----
+Highlights
 
-Featured Project
+- 🎯 YouTube Title Generator
+- 📝 YouTube Description Generator
+- 🔍 SEO-focused creator tools
+- ⚡ Fast & responsive interface
+- 🧩 Reusable tool-first architecture
+- 📱 Mobile-friendly design
 
-🚀 TubeKit
+Built with
 
-TubeKit is a YouTube creator toolkit designed to help creators generate and optimize content more efficiently.
-
-Features include:
-
-- YouTube Title Generator
-- YouTube Description Generator
-- Creator-focused tools
-- SEO-oriented functionality
-- Modern responsive UI
-- Tool-first architecture
-
-Tech: React.js • Vite • JavaScript • Tailwind CSS
+"React.js" "Vite" "JavaScript" "Tailwind CSS"
 
 ---
 
-What I'm Working On
+📊 GitHub Statistics
 
-Building → Learning → Improving → Shipping
+<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=prateek4322&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" /><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek4322&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /></div>---
 
-Currently focused on:
+🔥 Contribution Streak
 
-- 🌐 Modern web applications
-- ⚡ React & JavaScript development
-- 🔌 REST APIs and backend systems
-- 🤖 AI-powered developer tools
-- 📈 SEO-friendly web products
-- 🧩 Open-source projects
+<div align="center"><img src="https://streak-stats.demolab.com?user=prateek4322&theme=tokyonight&hide_border=true" /></div>---
 
----
+📈 Contribution Graph
 
-GitHub Stats
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=prateek4322&theme=tokyo-night&hide_border=true&area=true" /></div>---
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Prateek-Kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-Kumar&layout=compact&theme=tokyonight&hide_border=true" height="170"/></div>---
+🧠 Currently Learning
 
-GitHub Activity
-
-<div align="center">"GitHub Streak" (https://streak-stats.demolab.com?user=Prateek-Kumar&theme=tokyonight&hide_border=true)
-
-</div>---
-
-Let's Connect
-
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/prateek-kumar-9746b3331/)
-
-""Email" (https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:prateek4334@gmail.com)
+▸ Advanced React
+▸ Backend Development
+▸ REST APIs
+▸ AI-powered Applications
+▸ Web Performance
+▸ SEO & Web Optimization
 
 ---
 
-<div align="center">"Code. Build. Learn. Repeat."
+🎯 2026 Goals
 
-⭐ Thanks for visiting my profile!
+- 🚀 Build and launch more real-world projects
+- 💻 Improve full-stack development skills
+- 🤖 Explore AI-powered applications
+- 🌐 Contribute to open-source projects
+- 📚 Strengthen software engineering fundamentals
 
-</div>
+---
+
+🤝 Connect With Me
+
+<div align="center"><a href="https://www.linkedin.com/in/prateek-kumar-9746b3331/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:prateek4334@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></div>---
+
+<div align="center">⚡ Build. Break. Learn. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer"/></div>
